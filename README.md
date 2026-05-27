@@ -26,8 +26,11 @@
 ![](16.png)
 ##лаброторная 2
 https://disk.yandex.ru/d/IlXVKqNnyPhUsg
+
+
 ##лаброторная 3
 ![](17.png)
+
 тоже самое на винде
 ![](18.png)
 ![](19.png)
