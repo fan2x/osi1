@@ -20,3 +20,5 @@
 подключаем makefile
 ![](10.png)
 ![](12.png)
+##лаброторная 2
+https://disk.yandex.ru/d/IlXVKqNnyPhUsg
